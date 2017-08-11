@@ -1,12 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleApplication5
+namespace HackerRank
 {
-    class Program
+    class SparseArrays
     {
         static void Main(string[] args)
         {
